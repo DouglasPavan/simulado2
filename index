@@ -10,7 +10,7 @@
 <body class="bg - [#4d4d4d] max-w-[1280px] mx-auto">
   <header class=" text-center py5 px-2 text-white">
     <div class="bicipes text-left ">
-      <img src="/utf20242-main/utf20242-main/img/bicipes.png" alt="">
+      <img src="/img/bicipes.png"alt="">
     </div>
 
   </header>
